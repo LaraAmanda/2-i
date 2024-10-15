@@ -109,4 +109,8 @@ criaCartao(
 criaCartao(
     'Sociologia',
     'O que é o racionalismo e quem são seus principais representantes?',
+    ' é uma corrente filosófica que traz como argumento a noção de que a razão é a única forma que o ser humano tem de alcançar o verdadeiro conhecimento por completo'
+)
+criaCartao(
+    'História'
 )
