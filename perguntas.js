@@ -112,5 +112,7 @@ criaCartao(
     ' é uma corrente filosófica que traz como argumento a noção de que a razão é a única forma que o ser humano tem de alcançar o verdadeiro conhecimento por completo'
 )
 criaCartao(
-    'História'
+    'História',
+    'quem foi o ditador responsavel pela 2° guerra mundial?',
+    'Hitler'
 )
