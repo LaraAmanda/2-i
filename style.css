@@ -53,6 +53,9 @@ footer{
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 .conteudo-cartao p{
