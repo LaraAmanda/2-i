@@ -53,9 +53,6 @@ footer{
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
-    position: absolute;
-    height: 100%;
-    width: 100%;
 }
 
 .conteudo-cartao p{
@@ -72,6 +69,7 @@ footer{
  .resposta-cartao{
     color: var(--destaque);
     font-weight: 700;
+
  }
 
  .cartao:hover .conteudo-cartao{
@@ -80,4 +78,7 @@ footer{
 
  .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
  }
