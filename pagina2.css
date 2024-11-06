@@ -12,7 +12,7 @@ body{
 }
 
 header{
-    background: var(--preto);
+    background: var(--cartao-verso);
     padding: 40px;
     display: flex;
     justify-content: space-around;
